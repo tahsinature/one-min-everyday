@@ -5,3 +5,4 @@ I will do something everyday in this repo. Big or, small. But everyday.
 - Did you know fact
 - Jokes
 - Moral Story's
+- Quotes
